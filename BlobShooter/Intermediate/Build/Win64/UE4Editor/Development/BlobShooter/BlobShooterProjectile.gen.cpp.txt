@@ -1,0 +1,5 @@
+C:\Users\Richard\Documents\GitHub\BlobShooter\BlobShooter\Intermediate\Build\Win64\UE4Editor\Development\BlobShooter\Definitions.BlobShooter.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Richard\Documents\GitHub\BlobShooter\BlobShooter\Source\BlobShooter/BlobShooterProjectile.h
+c:\users\richard\documents\github\blobshooter\blobshooter\intermediate\build\win64\ue4editor\inc\blobshooter\BlobShooterProjectile.generated.h

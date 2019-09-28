@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BlobShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{BED53F8B-673D-4FE9-AA19-14384BB87575}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BlobShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BlobShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2C284328-FBF3-45E4-BB5B-A485E41622C2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BlobShooter">
+      <UniqueIdentifier>{32019CEE-D993-4614-8CE6-B3638E4244CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BlobShooter\BlobShooter.Build.cs">
+      <Filter>Source\BlobShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BlobShooter\BlobShooter.cpp">
+      <Filter>Source\BlobShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlobShooter\BlobShooter.h">
+      <Filter>Source\BlobShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BlobShooter\BlobShooterGameMode.cpp">
+      <Filter>Source\BlobShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlobShooter\BlobShooterGameMode.h">
+      <Filter>Source\BlobShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BlobShooter\BlobShooterPawn.cpp">
+      <Filter>Source\BlobShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlobShooter\BlobShooterPawn.h">
+      <Filter>Source\BlobShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BlobShooter\BlobShooterProjectile.cpp">
+      <Filter>Source\BlobShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlobShooter\BlobShooterProjectile.h">
+      <Filter>Source\BlobShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:\Users\Richard\Documents\GitHub\BlobShooter\BlobShooter\Source\BlobShooter\BlobShooter.Build.cs
+C:\Users\Richard\Documents\GitHub\BlobShooter\BlobShooter\Source\BlobShooter.Target.cs
+C:\Users\Richard\Documents\GitHub\BlobShooter\BlobShooter\Source\BlobShooterEditor.Target.cs

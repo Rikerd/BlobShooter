@@ -1,0 +1,2 @@
+C:\Users\Richard\Documents\GitHub\BlobShooter\BlobShooter\Intermediate\Build\Win64\UE4Editor\Development\BlobShooter\Definitions.BlobShooter.h
+c:\users\richard\documents\github\blobshooter\blobshooter\source\blobshooter\BlobShooter.h
